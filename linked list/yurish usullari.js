@@ -1,9 +1,9 @@
 const linkedList = {
-    val: 5,
+    val: 1,
     next: {
-      val: 3,
+      val: 2,
       next: {
-        val: 10,
+        val: 3,
         next: null,
       },
     },
