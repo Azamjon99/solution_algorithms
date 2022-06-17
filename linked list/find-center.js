@@ -1,8 +1,4 @@
 
-/**
- * @param {ListNode} head
- * @return {ListNode}
- */
 
 function findCenter(head){
     let slow = head, fast = head
